@@ -1,0 +1,5 @@
+John,john123,Science,,,Form1,120123010123,john@gmail.com,01114356789,Johor,May
+Ben,ben123,Chinese,Mathematics,,Form2,110123060223,ben@gmail.com,0143257689,Pahang,May
+Ivy,ivy123,Malay,,,Form3,100123130146,ivy@gmail.com,0183456789,Sarawak,May
+Emily,emily123,English,Physics,,Form4,090123070348,emily@gmail.com,0165432789,Penang,May
+Joseph,joseph123,Chemistry,,,Form5,080123020569,joseph@gmail.com,0137654389,Kedah,May

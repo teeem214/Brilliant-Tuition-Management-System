@@ -1,0 +1,7 @@
+Jane,Malay,Form3,RM70,Monday
+Jack,English,Form4,RM60,Tuesday
+Emma,Chinese,Form2,RM65,Wednesday
+Sofia,Science,Form1,RM50,Thursday
+Nancy,Physics,Form4,RM55,Friday
+Bob,Mathematics,Form2,RM50,Saturday
+Elise,Chemistry,Form5,RM55,Sunday

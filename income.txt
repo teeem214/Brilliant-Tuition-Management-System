@@ -1,0 +1,7 @@
+Form1,Science,RM50
+Form2,Chinese,RM65
+Form2,Mathematics,RM50
+Form3,Malay,RM70
+Form4,English,RM60
+Form4,Physics,RM55
+Form5,Chemistry,RM55
